@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Taro X Blog',
   tagline: 'Taro生态集合',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://lexmin0412.github.io',
+  baseUrl: '/tarox-blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
