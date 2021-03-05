@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{83:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/tarox-blog/blog/welcome"},{"title":"Hello","permalink":"/tarox-blog/blog/hello-world"},{"title":"Hola","permalink":"/tarox-blog/blog/hola"}]}')}}]);

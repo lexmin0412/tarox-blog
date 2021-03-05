@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{76:function(o){o.exports=JSON.parse('{"allTagsPath":"/tarox-blog/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/tarox-blog/blog/tags/hello"}')}}]);

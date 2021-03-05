@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{82:function(o){o.exports=JSON.parse('{"allTagsPath":"/tarox-blog/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/tarox-blog/blog/tags/facebook"}')}}]);
